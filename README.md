@@ -39,7 +39,7 @@ Play against the computer and test your luck!
 ---
 
 ## 💻 Demo
-(Add your live demo link here if you deploy it on GitHub Pages, Netlify, or Vercel)  
+(You can view the project here:)  
 Example: [Play Here](https://rajaryan-rps-game.netlify.app)
 
 ---
