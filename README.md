@@ -39,8 +39,8 @@ Play against the computer and test your luck!
 ---
 
 ## 💻 Demo
-(You can view the project here:)  
-Example: [Play Here](https://rajaryan-rps-game.netlify.app)
+You can view the project here: (https://rajaryan-rps-game.netlify.app)
+
 
 ---
 
